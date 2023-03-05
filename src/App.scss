@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+td {
+  white-space: normal;
+}
+
+th {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.addTask {
+  margin-top: 1em;
+  text-align: center;
+}
+
+.taskText {
+  width: 294.4px;
+  text-align: left;
+  padding-left: 1em;
+}
+
+.striked {
+  text-decoration: line-through;
+  color: rgb(141, 255, 84);
+}
